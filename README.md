@@ -3,4 +3,4 @@ Bit plane extracted moving object detection using frame comparison, also consist
 
 For bit plane slicing check the model bitplane_split_merge2_final.mlx
 
-For implementation of bit plane extracted frame differencing for moving object detection FRAME_diff_example.mlx
+For implementation of bit plane extracted frame differencing for moving object detection check FRAME_diff_example.mlx
